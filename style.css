@@ -96,3 +96,16 @@ img.bio-pic {
 	width: 30%;
 	height: auto;
 }
+
+img.art {
+	width: 100%;
+	height: auto;
+}
+
+.row {
+   display: grid;
+   grid-template-columns: 400px 400px 400px;
+   grid-gap: 10px;
+   justify-content: center;
+ }
+
